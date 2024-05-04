@@ -1,4 +1,4 @@
-# Follow middle fine-tuning speed and progress
+# Follow middle fine-tuning speed, progress and steps
 
 For this model, I cloned the FM-FT-Continuous model and fine-tuned it using a reward on being faster and obtaining more progress.
 

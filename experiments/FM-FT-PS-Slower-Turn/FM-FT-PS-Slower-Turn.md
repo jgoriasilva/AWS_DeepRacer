@@ -1,4 +1,4 @@
-# Follow middle fine-tuning speed and progress
+# Slower Turn
 
 For this model, I cloned the FM-FT-Speed-Progress-Steps model and fine-tuned it while reducing its speed on curves. The hope was to increase its stability and allow it to turn slower, since that's what was causing it to get off track all the time. I also increased the speed by a bit on 0 degrees and 15 degrees.
 

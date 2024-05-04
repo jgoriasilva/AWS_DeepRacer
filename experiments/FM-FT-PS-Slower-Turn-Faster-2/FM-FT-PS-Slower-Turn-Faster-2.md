@@ -1,4 +1,4 @@
-# Follow middle fine-tuning speed and progress
+# Slower Turn Faster 2
 
 For this model, I cloned the FM-FT-PS-Slower-Turn-Faster model and let it train more, while increasing its speed.
 

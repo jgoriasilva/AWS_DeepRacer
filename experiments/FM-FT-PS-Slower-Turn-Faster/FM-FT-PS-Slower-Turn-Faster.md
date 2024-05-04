@@ -1,4 +1,4 @@
-# Follow middle fine-tuning speed and progress
+# Slower Turn Faster
 
 For this model, I cloned the FM-FT-PS-Slower-Turn model and fine-tuned it to increase its speed. The hope was to use the more stable previous model and make it faster.
 
