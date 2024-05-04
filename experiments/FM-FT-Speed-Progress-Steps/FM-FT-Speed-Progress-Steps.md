@@ -27,7 +27,7 @@ Contrary to the FM-FT-Speed-Progress, however, the reward on progress is given b
 
 The final reward is still normalized by taking a weighted average from the four rewards, putting more weights on the speed and progress.
 
-```
+```python
 def reward_function(params):
     # Read input parameters
     distance_from_center = params['distance_from_center']
@@ -59,7 +59,7 @@ def reward_function(params):
 
 ## Hyperparameters
 
-Same as FM-FT-Speed-Progress: reduced learning rate from 5e-4 to 1e-4 so that the optimization can happen close to the optimal point found by the previous model (FM-FT-Continuous).
+Same as FM-FT-Speed-Progress: reduced learning rate from 5e-4 to 1e-5 so that the optimization can happen close to the optimal point found by the previous model (FM-FT-Continuous).
 
 |Hyperparameter|Value|
 |---|---|

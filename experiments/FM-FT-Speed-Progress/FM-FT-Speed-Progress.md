@@ -21,7 +21,7 @@ To help the model to be faster, I increased all speeds by about 0.20
 
 I modified the reward function built before to include a reward on speed and progress. For this model, the reward on progress was on the total percentage of progress. The final reward is still normalized by taking a weighted average from the four rewards, putting more weights on the speed and progress.
 
-```
+```python
 def reward_function(params):
     # Read input parameters
     distance_from_center = params['distance_from_center']

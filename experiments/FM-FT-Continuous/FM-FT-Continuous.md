@@ -21,7 +21,7 @@ To make the model faster, I increased the speed on steering angle 0.
 
 I built my own reward function that was inspired by the one suggested by AWS. This one uses a continuous non-linear function to reward for closeness to the center and low steering, which makes the model learn better. It also normalizes the final reward, keeping it between 0 and 1. This is important because makes it easier to analyze the correlation between reward and performance.
 
-```
+```python
 def reward_function(params):
 
     # Read input parameters

@@ -21,7 +21,7 @@ I opted for a simple discrete action space, which allows for higher speeds on lo
 
 I used the suggested reward function from AWS:
 
-```
+```python
 def reward_function(params):
 
     # Read input parameters
