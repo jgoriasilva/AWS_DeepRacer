@@ -14,6 +14,11 @@ In this repo I’ll share what I’ve learned with my experiences, including hyp
 
 I hope this can help you on your own journey in the world of autonomous racing.
 
-## Repo organization
+## Experiments
 
-In the folder `experiments` I have summarized some key insights from the most interesting experiments.
+In the folder `experiments` I have summarized some key insights from the most interesting experiments, which are described below.
+
+|Iteration|Model codename|Idea|
+|---|---|---|
+|1|[FollowMiddle](https://github.com/jgoriasilva/AWS_DeepRacer/blob/main/experiments/FollowMiddle/FollowMiddle.md)|Follow the middle and penalize for steering.|
+|2|[FM-FT-Continuous](https://github.com/jgoriasilva/AWS_DeepRacer/blob/main/experiments/FM-FT-Continuous/FM-FT-Continuous.md)|Fine-tune previous model using a continuous reward function.
