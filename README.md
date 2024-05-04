@@ -16,7 +16,7 @@ I hope this can help you on your own journey in the world of autonomous racing.
 
 ## Experiments
 
-In the folder `experiments` I have summarized some key insights from the most interesting experiments, which are described below.
+In the folder `experiments` I have summarized some key insights from the most interesting experiments, which are presented below.
 
 |Iteration|Model codename|Idea|
 |---|---|---|
