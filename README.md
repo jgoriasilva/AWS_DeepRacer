@@ -1,18 +1,20 @@
-# AWS DeepRacer experience
-
-This repo shares my experiments with AWS DeepRacer throughout the classification phase for the CSBC 2024.
+# AWS DeepRacer Experience
+Welcome to my AWS DeepRacer repository, where I share my journey and experiments during the classification phase for the CSBC 2024.
 
 ## About AWS DeepRacer
+AWS DeepRacer is a competition that challenges you to train a miniature race car to drive autonomously using reinforcement learning. This competition is accessible through the AWS console, providing a hands-on experience to self-driving car technology and reinforcement learning.
 
-AWS DeepRacer is a competition where you train a small race car to self-driving using reinforcement learning. It is available on the AWS console.
+## About Reinforcement Learning and Self-Driving Cars
+Reinforcement learning, the core of AWS DeepRacer, allows the car to learn optimal driving strategies through trial and error. By receiving feedback from its actions, the car continuously improves its decision-making skills to navigate the track independently.
 
-## About reinforcement learning and self-driving cars
+## What You'll Find in This Repository
+In this repository, I share my insights and experiences from participating in the AWS DeepRacer competition. This includes:
 
-Reinforcement learning is what powers AWS DeepRacer. It’s a way for the car to learn by trying things out and seeing what works best. This helps the car make decisions on its own as it drives around.
+- Hyperparameter Tuning: How to better adjust the parameters to optimize the performance of the model.
+- Reward Functions: How to design better reward functions that guide the car's learning process effectively.
+- Tips and Tricks: Practical advice and strategies that I found useful during my experimentation.
 
-In this repo I’ll share what I’ve learned with my experiences, including hyperparameters tuning, reward functions and other tips. 
-
-I hope this can help you on your own journey in the world of autonomous racing.
+I hope this repository serves as a valuable resource for anyone interested in autonomous racing and reinforcement learning.
 
 ## Experiments
 
