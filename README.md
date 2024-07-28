@@ -1,14 +1,14 @@
 # AWS DeepRacer Experience
-Welcome to my AWS DeepRacer repository, where I share my journey and experiments during the classification phase for the CSBC 2024.
+Welcome to my AWS DeepRacer repository, where I share my experiments and what I learned during the classification phase for the CSBC 2024.
 
 ## About AWS DeepRacer
-AWS DeepRacer is a competition that challenges you to train a miniature race car to drive autonomously using reinforcement learning. This competition is accessible through the AWS console, providing a hands-on experience to self-driving car technology and reinforcement learning.
+AWS DeepRacer is a competition that challenges you to create a self-driving car using reinforcement learning. This competition is accessible through the AWS console, providing a hands-on experience to self-driving car technology and machine learning.
 
-## About Reinforcement Learning and Self-Driving Cars
-Reinforcement learning, the core of AWS DeepRacer, allows the car to learn optimal driving strategies through trial and error. By receiving feedback from its actions, the car continuously improves its decision-making skills to navigate the track independently.
+## About Reinforcement Learning
+Reinforcement learning, the core of AWS DeepRacer, allows the car to learn optimal driving strategies through trial and error. By receiving feedback from its actions, the car continuously improves its decision-making skills to navigate the track independently. Learn more about RL [here](https://en.wikipedia.org/wiki/Reinforcement_learning).
 
 ## What You'll Find in This Repository
-In this repository, I share my insights and experiences from participating in the AWS DeepRacer competition. This includes:
+In this repository, I share my insights and experiences from participating in the virtual AWS DeepRacer competition. This includes:
 
 - Hyperparameter Tuning: How to better adjust the parameters to optimize the performance of the model.
 - Reward Functions: How to design better reward functions that guide the car's learning process effectively.
